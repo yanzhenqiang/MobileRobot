@@ -1,0 +1,4 @@
+include ':app'
+include ':automator'
+include ':common'
+include ':autojs'
